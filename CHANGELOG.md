@@ -2,6 +2,18 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [4.0] 2024-07-04
+
+### Added
+- Compliance with NBR10520:2023
+- Added tests for NBR6023:2018
+
+### Fixed
+- Fix -abnt-abnt suffix warning
+
+### Changed
+- Removed chevron from urls
+- Italicizes "S. l.", "s. n.", "In" and "et al"
 
 ## [3.4] - 2018-11-17
 
